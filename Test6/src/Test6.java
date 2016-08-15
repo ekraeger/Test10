@@ -7,6 +7,7 @@ System.out.println("hi");
 System.out.println("bye");
 System.out.println("hi");
 System.out.println("hi");
+System.out.println("good");
 	}
 
 }
