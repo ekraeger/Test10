@@ -8,6 +8,8 @@ System.out.println("bye");
 System.out.println("hi");
 System.out.println("hi");
 System.out.println("good");
+
+System.out.println("good");
 	}
 
 }
